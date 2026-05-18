@@ -1,12 +1,12 @@
-﻿@model PrjFinanceiro.Models.Cargo
+﻿@model PrjFinanceiro.Models.TipoConta
 
 <div class="container mt-5">
     <div class="card border-danger">
         <div class="card-header bg-danger text-white">
-            <h2>Excluir Agência</h2>
+            <h2>Excluir TipoConta</h2>
         </div>
         <div class="card-body">
-            <h4 class="text-danger">Tem certeza que deseja excluir esta agência?</h4>
+            <h4 class="text-danger">Tem certeza que deseja excluir esta TipoConta?</h4>
             <hr />
 
             <dl class="row">
@@ -17,15 +17,16 @@
                 <dd class="col-sm-9">@Model.Descricao</dd>
 
                 <dt class="col-sm-3">Cidade:</dt>
-                <dd class="col-sm-9">@Model.Abreviacao</dd>
+                <dd class="col-sm-9">@Model.Sigla</dd>
 
+                
             </dl>
 
-            <form action="/Cargo/ExcluirConfirmado" method="post">
+            <form action="/TipoConta/ExcluirConfirmado" method="post">
                 <input type="hidden" name="codigo" value="@Model.Codigo" />
 
                 <button type="submit" class="btn btn-danger">Sim, Excluir</button>
-                <a href="/Cargo/Index" class="btn btn-secondary">Cancelar</a>
+                <a href="/TipoConta/Index" class="btn btn-secondary">Cancelar</a>
             </form>
         </div>
     </div>

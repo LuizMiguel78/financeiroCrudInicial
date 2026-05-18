@@ -36,22 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmNpYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/Cargo/Criar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cQ3JpYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/Cargo/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cRWRpdGFyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/Cargo/Excluir.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cRXhjbHVpci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/Cargo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,6 +50,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/TipoConta/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRhXENyaWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/TipoConta/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRhXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/TipoConta/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRhXEV4Y2x1aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/TipoConta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tarde.cetafest/Documents/financeiroCrudInicial/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/Views/_ViewImports.cshtml]
